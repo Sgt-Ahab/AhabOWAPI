@@ -54,6 +54,6 @@ Contributions welcome! See `CONTRIBUTING.md` for details.
 ---
  
  ## Support the Project:
- If you found this tool useful, and wish to donate, you can support <a href="https://www.buymeacoffee.com/sgtahab">here</a>!
+ If you found this tool useful, and wish to donate, you can support <a href="https://www.buymeacoffee.com/sgtahab">here</a>! 🎓💡
 
 ###### Made with ♥ by a fellow learner turning tough days into code
