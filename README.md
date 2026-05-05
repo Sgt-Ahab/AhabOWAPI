@@ -52,5 +52,10 @@ python ahab_weather.py
 Contributions welcome! See `CONTRIBUTING.md` for details.
 
 ---
+ 
+ ## Support the Project:
+ If you found this tool useful, and wish to donate, you can support <a href="https://www.buymeacoffee.com/sgtahab">here</a> or below:
+ <br>
+<a href="https://www.buymeacoffee.com/sgtahab"><img src="https://img.buymeacoffee.com/button-api/?text=Support me!&emoji=🎓&slug=sgtahab&button_colour=5d008f&font_colour=ffffff&font_family=Arial&outline_colour=ffffff&coffee_colour=FFDD00" alt="Buy Me a Coffee Button for Sgt-Ahab" height="120" width="250" style="height: 120px !important; width: 250px !important;"></a>
 
 ###### Made with ♥ by a fellow learner turning tough days into code
